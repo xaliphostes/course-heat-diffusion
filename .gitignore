@@ -1,8 +1,8 @@
 node_modules/
 .vscode/
 build
-**/*.js
-**/*.js.map
+#**/*.js
+#**/*.js.map
 
 package-lock.json
 *.log
